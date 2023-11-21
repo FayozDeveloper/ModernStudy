@@ -3,15 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        This is Header Content
-      </header>
-      <main>
-        This is Main Content
-      </main>
-      <footer>
-        This is Footer Content
-      </footer>
+        <h1>Test</h1>
     </div>
   );
 }
